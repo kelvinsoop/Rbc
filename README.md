@@ -1,3 +1,2 @@
 # Rbc
-servo shooter
-esp to esp wifi communication
+servo shooter  esp to esp wifi communication
